@@ -6,7 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test initialized");
+            Console.WriteLine("Branch Test Complete");
+            Console.WriteLine("Really complete");
         }
     }
 }
